@@ -94,6 +94,6 @@ This project is developed for academic purposes to demonstrate stock market data
 ---
 
 ## 👤 Author
-**Krishna**  
+**Kalpesh**  
 BCA (6th Semester)  
 Amity University Online
