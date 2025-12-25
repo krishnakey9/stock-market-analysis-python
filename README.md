@@ -55,8 +55,9 @@ stock-market-analysis-python/
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
+
 ```bash
-git clone https://github.com/<your-username>/stock-market-analysis-python.git
+git clone https://github.com/krishnakey9/stock-market-analysis-python.git
 
 ### 2️⃣ Navigate to Project Directory
 cd stock-market-analysis-python
