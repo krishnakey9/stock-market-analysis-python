@@ -36,61 +36,64 @@ This project is developed as a **BCA 6th Semester Major Project** and demonstrat
 ---
 
 ## 📂 Project Structure
+```
 stock-market-analysis-python/
 │
-├── data/ # Stock market JSON data files
-├── src/ # Source code
-│ ├── app.py
-│ ├── data_loader.py
-│ ├── indicators.py
-│ └── visualizer.py
+├── data/                 # Stock market JSON data files
+├── src/                  # Source code
+│   ├── app.py
+│   ├── data_loader.py
+│   ├── indicators.py
+│   └── visualizer.py
 │
-├── requirements.txt # Project dependencies
-├── README.md # Project documentation
+├── requirements.txt      # Project dependencies
+├── README.md             # Project documentation
 └── .gitignore
-
+```
 
 ---
 
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
-
 ```bash
-git clone https://github.com/krishnakey9/stock-market-analysis-python.git
+git clone https://github.com/<your-username>/stock-market-analysis-python.git
+```
 
 ### 2️⃣ Navigate to Project Directory
+```bash
 cd stock-market-analysis-python
+```
 
 ### 3️⃣ Install Required Libraries
+```bash
 pip install -r requirements.txt
+```
 
 ### 4️⃣ Run the Application
+```bash
 python src/app.py
+```
 
+---
 
-📊 Output Description
-
+## 📊 Output Description
 The system displays:
-
-Stock price chart with SMA and EMA overlays
-
-Volume bar chart
-
-RSI indicator with threshold levels
-
-MACD indicator with signal line
+- Stock price chart with SMA and EMA overlays
+- Volume bar chart
+- RSI indicator with threshold levels
+- MACD indicator with signal line
 
 All charts are interactive and support zooming and panning for detailed analysis.
 
+---
 
-📘 Academic Note
-
+## 📘 Academic Note
 This project is developed for academic purposes to demonstrate stock market data analysis using Python. The analysis is based on historical data and should not be considered as financial advice.
 
+---
 
-👤 Author
-
-Kalpesh
-BCA (6th Semester)
+## 👤 Author
+**Krishna**  
+BCA (6th Semester)  
 Amity University Online
